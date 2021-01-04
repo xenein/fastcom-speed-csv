@@ -34,7 +34,6 @@ Das hier ist analog zu: https://github.com/xenein/cloudflare-speed-csv - nur nic
 - Messungen am besten mit einem Gerät durchführen, das mehr Bandbreite als der Internetzugang kann
 - Der Spaß hier funktioniert für mich auf meinem macMini mit macOS 11. Andere Geräte habe ich nicht getestet
 - Wenn ich mal Zeit und Lust hab, schaue ich, dass Fehlerbehandlung - sowas wie "hm grade gar kein Internet da" ordentlich behandelt wird
-- Andere ToDo ist auch die Latencies noch mit einzubeziehen
 
 # How to: statistics on your internet connection speed. Automated. In CSV.
 
