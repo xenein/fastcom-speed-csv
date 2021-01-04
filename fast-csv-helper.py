@@ -65,3 +65,5 @@ if path.isdir(data_path):
         )
 else:
     print(f"Download Speed: {download_speed}\nUpload Speed: {upload_speed}")
+
+driver.close()
